@@ -6,4 +6,8 @@ print("Pull Requestの練習中！")
 print("Git/GitHubの実戦練習中！")
 print("変更A")
 print("変更B")
+<<<<<<< HEAD
 print("main側の変更")
+=======
+print("conflict側の変更")
+>>>>>>> conflict-test
